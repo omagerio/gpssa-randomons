@@ -1,0 +1,608 @@
+{
+    "uuid": "dc5680b9-01f9-443e-9979-d54a34c2cd1a",
+    "name": "Randomons",
+    "author": "omagerio",
+    "version": 1,
+    "stickers": [
+        {
+            "id": 1,
+            "name": "nisamon",
+            "image": "images/1.png",
+            "rarity": 1
+        },
+        {
+            "id": 2,
+            "name": "mamubamon",
+            "image": "images/2.png",
+            "rarity": 1
+        },
+        {
+            "id": 3,
+            "name": "taqewomon",
+            "image": "images/3.png",
+            "rarity": 1
+        },
+        {
+            "id": 4,
+            "name": "mufumon",
+            "image": "images/4.png",
+            "rarity": 1
+        },
+        {
+            "id": 5,
+            "name": "domacumon",
+            "image": "images/5.png",
+            "rarity": 1
+        },
+        {
+            "id": 6,
+            "name": "rudowamon",
+            "image": "images/6.png",
+            "rarity": 1
+        },
+        {
+            "id": 7,
+            "name": "xuvemon",
+            "image": "images/7.png",
+            "rarity": 1
+        },
+        {
+            "id": 8,
+            "name": "jenaximon",
+            "image": "images/8.png",
+            "rarity": 1
+        },
+        {
+            "id": 9,
+            "name": "warademon",
+            "image": "images/9.png",
+            "rarity": 1
+        },
+        {
+            "id": 10,
+            "name": "xaxajamon",
+            "image": "images/10.png",
+            "rarity": 1
+        },
+        {
+            "id": 11,
+            "name": "fozimamon",
+            "image": "images/11.png",
+            "rarity": 1
+        },
+        {
+            "id": 12,
+            "name": "nuzemon",
+            "image": "images/12.png",
+            "rarity": 1
+        },
+        {
+            "id": 13,
+            "name": "zerosemon",
+            "image": "images/13.png",
+            "rarity": 1
+        },
+        {
+            "id": 14,
+            "name": "cevakomon",
+            "image": "images/14.png",
+            "rarity": 1
+        },
+        {
+            "id": 15,
+            "name": "rizemon",
+            "image": "images/15.png",
+            "rarity": 1
+        },
+        {
+            "id": 16,
+            "name": "rulemon",
+            "image": "images/16.png",
+            "rarity": 1
+        },
+        {
+            "id": 17,
+            "name": "limacimon",
+            "image": "images/17.png",
+            "rarity": 1
+        },
+        {
+            "id": 18,
+            "name": "cenogemon",
+            "image": "images/18.png",
+            "rarity": 1
+        },
+        {
+            "id": 19,
+            "name": "fusimon",
+            "image": "images/19.png",
+            "rarity": 1
+        },
+        {
+            "id": 20,
+            "name": "nunemon",
+            "image": "images/20.png",
+            "rarity": 1
+        },
+        {
+            "id": 21,
+            "name": "mibumumon",
+            "image": "images/21.png",
+            "rarity": 1
+        },
+        {
+            "id": 22,
+            "name": "pokamon",
+            "image": "images/22.png",
+            "rarity": 1
+        },
+        {
+            "id": 23,
+            "name": "miluvamon",
+            "image": "images/23.png",
+            "rarity": 1
+        },
+        {
+            "id": 24,
+            "name": "qeresimon",
+            "image": "images/24.png",
+            "rarity": 1
+        },
+        {
+            "id": 25,
+            "name": "vuxidamon",
+            "image": "images/25.png",
+            "rarity": 1
+        },
+        {
+            "id": 26,
+            "name": "fugazamon",
+            "image": "images/26.png",
+            "rarity": 1
+        },
+        {
+            "id": 27,
+            "name": "pozajemon",
+            "image": "images/27.png",
+            "rarity": 1
+        },
+        {
+            "id": 28,
+            "name": "kiguqamon",
+            "image": "images/28.png",
+            "rarity": 1
+        },
+        {
+            "id": 29,
+            "name": "buremon",
+            "image": "images/29.png",
+            "rarity": 1
+        },
+        {
+            "id": 30,
+            "name": "vedimon",
+            "image": "images/30.png",
+            "rarity": 1
+        },
+        {
+            "id": 31,
+            "name": "zakavomon",
+            "image": "images/31.png",
+            "rarity": 1
+        },
+        {
+            "id": 32,
+            "name": "xaxubumon",
+            "image": "images/32.png",
+            "rarity": 1
+        },
+        {
+            "id": 33,
+            "name": "pecobomon",
+            "image": "images/33.png",
+            "rarity": 1
+        },
+        {
+            "id": 34,
+            "name": "zedimon",
+            "image": "images/34.png",
+            "rarity": 1
+        },
+        {
+            "id": 35,
+            "name": "zuzemon",
+            "image": "images/35.png",
+            "rarity": 1
+        },
+        {
+            "id": 36,
+            "name": "kusamon",
+            "image": "images/36.png",
+            "rarity": 1
+        },
+        {
+            "id": 37,
+            "name": "ceqirumon",
+            "image": "images/37.png",
+            "rarity": 1
+        },
+        {
+            "id": 38,
+            "name": "fupamon",
+            "image": "images/38.png",
+            "rarity": 1
+        },
+        {
+            "id": 39,
+            "name": "nujoremon",
+            "image": "images/39.png",
+            "rarity": 1
+        },
+        {
+            "id": 40,
+            "name": "mirilemon",
+            "image": "images/40.png",
+            "rarity": 1
+        },
+        {
+            "id": 41,
+            "name": "tafimon",
+            "image": "images/41.png",
+            "rarity": 1
+        },
+        {
+            "id": 42,
+            "name": "dikemimon",
+            "image": "images/42.png",
+            "rarity": 1
+        },
+        {
+            "id": 43,
+            "name": "wanamon",
+            "image": "images/43.png",
+            "rarity": 1
+        },
+        {
+            "id": 44,
+            "name": "sadimon",
+            "image": "images/44.png",
+            "rarity": 1
+        },
+        {
+            "id": 45,
+            "name": "junumon",
+            "image": "images/45.png",
+            "rarity": 1
+        },
+        {
+            "id": 46,
+            "name": "tetamon",
+            "image": "images/46.png",
+            "rarity": 1
+        },
+        {
+            "id": 47,
+            "name": "fabemon",
+            "image": "images/47.png",
+            "rarity": 1
+        },
+        {
+            "id": 48,
+            "name": "jujumon",
+            "image": "images/48.png",
+            "rarity": 1
+        },
+        {
+            "id": 49,
+            "name": "vupemon",
+            "image": "images/49.png",
+            "rarity": 1
+        },
+        {
+            "id": 50,
+            "name": "novomon",
+            "image": "images/50.png",
+            "rarity": 1
+        },
+        {
+            "id": 51,
+            "name": "mafimon",
+            "image": "images/51.png",
+            "rarity": 2
+        },
+        {
+            "id": 52,
+            "name": "fotumon",
+            "image": "images/52.png",
+            "rarity": 2
+        },
+        {
+            "id": 53,
+            "name": "sedemon",
+            "image": "images/53.png",
+            "rarity": 2
+        },
+        {
+            "id": 54,
+            "name": "qepilomon",
+            "image": "images/54.png",
+            "rarity": 2
+        },
+        {
+            "id": 55,
+            "name": "qatawomon",
+            "image": "images/55.png",
+            "rarity": 2
+        },
+        {
+            "id": 56,
+            "name": "pecomon",
+            "image": "images/56.png",
+            "rarity": 2
+        },
+        {
+            "id": 57,
+            "name": "xinesomon",
+            "image": "images/57.png",
+            "rarity": 2
+        },
+        {
+            "id": 58,
+            "name": "segomon",
+            "image": "images/58.png",
+            "rarity": 2
+        },
+        {
+            "id": 59,
+            "name": "qovomon",
+            "image": "images/59.png",
+            "rarity": 2
+        },
+        {
+            "id": 60,
+            "name": "paqibamon",
+            "image": "images/60.png",
+            "rarity": 2
+        },
+        {
+            "id": 61,
+            "name": "xecomon",
+            "image": "images/61.png",
+            "rarity": 2
+        },
+        {
+            "id": 62,
+            "name": "faloqimon",
+            "image": "images/62.png",
+            "rarity": 2
+        },
+        {
+            "id": 63,
+            "name": "tanebimon",
+            "image": "images/63.png",
+            "rarity": 2
+        },
+        {
+            "id": 64,
+            "name": "qilamon",
+            "image": "images/64.png",
+            "rarity": 2
+        },
+        {
+            "id": 65,
+            "name": "roqomon",
+            "image": "images/65.png",
+            "rarity": 2
+        },
+        {
+            "id": 66,
+            "name": "liwugumon",
+            "image": "images/66.png",
+            "rarity": 3
+        },
+        {
+            "id": 67,
+            "name": "tademon",
+            "image": "images/67.png",
+            "rarity": 3
+        },
+        {
+            "id": 68,
+            "name": "dogemon",
+            "image": "images/68.png",
+            "rarity": 3
+        },
+        {
+            "id": 69,
+            "name": "nucequmon",
+            "image": "images/69.png",
+            "rarity": 3
+        },
+        {
+            "id": 70,
+            "name": "potomon",
+            "image": "images/70.png",
+            "rarity": 3
+        },
+        {
+            "id": 71,
+            "name": "pexomimon",
+            "image": "images/71.png",
+            "rarity": 3
+        },
+        {
+            "id": 72,
+            "name": "zarecomon",
+            "image": "images/72.png",
+            "rarity": 3
+        },
+        {
+            "id": 73,
+            "name": "nixamon",
+            "image": "images/73.png",
+            "rarity": 3
+        },
+        {
+            "id": 74,
+            "name": "daqocumon",
+            "image": "images/74.png",
+            "rarity": 3
+        },
+        {
+            "id": 75,
+            "name": "gupomon",
+            "image": "images/75.png",
+            "rarity": 3
+        },
+        {
+            "id": 76,
+            "name": "tiwemon",
+            "image": "images/76.png",
+            "rarity": 3
+        },
+        {
+            "id": 77,
+            "name": "milemon",
+            "image": "images/77.png",
+            "rarity": 4
+        },
+        {
+            "id": 78,
+            "name": "danagamon",
+            "image": "images/78.png",
+            "rarity": 4
+        },
+        {
+            "id": 79,
+            "name": "balomon",
+            "image": "images/79.png",
+            "rarity": 4
+        },
+        {
+            "id": 80,
+            "name": "bozezimon",
+            "image": "images/80.png",
+            "rarity": 4
+        },
+        {
+            "id": 81,
+            "name": "xolurumon",
+            "image": "images/81.png",
+            "rarity": 4
+        },
+        {
+            "id": 82,
+            "name": "rofomon",
+            "image": "images/82.png",
+            "rarity": 4
+        },
+        {
+            "id": 83,
+            "name": "fejuvamon",
+            "image": "images/83.png",
+            "rarity": 4
+        },
+        {
+            "id": 84,
+            "name": "qexoqumon",
+            "image": "images/84.png",
+            "rarity": 4
+        },
+        {
+            "id": 85,
+            "name": "kurupomon",
+            "image": "images/85.png",
+            "rarity": 4
+        },
+        {
+            "id": 86,
+            "name": "nufudemon",
+            "image": "images/86.png",
+            "rarity": 5
+        },
+        {
+            "id": 87,
+            "name": "xemofumon",
+            "image": "images/87.png",
+            "rarity": 5
+        },
+        {
+            "id": 88,
+            "name": "vafapimon",
+            "image": "images/88.png",
+            "rarity": 5
+        },
+        {
+            "id": 89,
+            "name": "sizomon",
+            "image": "images/89.png",
+            "rarity": 5
+        },
+        {
+            "id": 90,
+            "name": "nabobumon",
+            "image": "images/90.png",
+            "rarity": 5
+        },
+        {
+            "id": 91,
+            "name": "razetemon",
+            "image": "images/91.png",
+            "rarity": 5
+        },
+        {
+            "id": 92,
+            "name": "votemon",
+            "image": "images/92.png",
+            "rarity": 5
+        },
+        {
+            "id": 93,
+            "name": "camumon",
+            "image": "images/93.png",
+            "rarity": 5
+        },
+        {
+            "id": 94,
+            "name": "bofomon",
+            "image": "images/94.png",
+            "rarity": 6
+        },
+        {
+            "id": 95,
+            "name": "leligimon",
+            "image": "images/95.png",
+            "rarity": 6
+        },
+        {
+            "id": 96,
+            "name": "wegiwumon",
+            "image": "images/96.png",
+            "rarity": 6
+        },
+        {
+            "id": 97,
+            "name": "nonitemon",
+            "image": "images/97.png",
+            "rarity": 6
+        },
+        {
+            "id": 98,
+            "name": "luvicimon",
+            "image": "images/98.png",
+            "rarity": 6
+        },
+        {
+            "id": 99,
+            "name": "motunamon",
+            "image": "images/99.png",
+            "rarity": 7
+        },
+        {
+            "id": 100,
+            "name": "wicemon",
+            "image": "images/100.png",
+            "rarity": 7
+        }
+    ]
+}
